@@ -5,7 +5,7 @@ body{
 	color: #5C6AC4;
 }
 
-label:nth-child(2n+1)
+.input:nth-child(even)
 {
   color: red;
 }
